@@ -2,6 +2,10 @@ h1, h3{
 	color:white; 
 }
 body{
-	background:turquoise;
+	background:black;
 	font-family:century gothic;
 }
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
